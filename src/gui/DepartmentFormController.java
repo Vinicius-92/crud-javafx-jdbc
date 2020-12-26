@@ -135,5 +135,4 @@ public class DepartmentFormController implements Initializable{
 	public void initialize(URL url, ResourceBundle rb) {
 		initializeNodes();
 	}
-
 }
